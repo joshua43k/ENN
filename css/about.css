@@ -1,0 +1,32 @@
+.about-main{
+    height: 800px;
+    width: calc(100% / 2);
+    background-color: rgba( 0, 0, 0, .7);
+    float: left;
+    background-image: url("../img/space.jpg");
+}
+
+.about-left-img{
+    background-image: url(../img/emperor.jpg);
+    width: 350px;
+    height: 350px;
+    background-size: cover;
+    margin: 150px 150px;
+    border-radius: 190px;
+}
+
+.about-right{
+    perspective: 40em;
+    color: #FDD10D;
+}
+
+.pre{
+    transform: rotateX(42deg);
+}
+
+.about-vid{
+    width: 300px;
+    height: 180px;
+    margin-left: 32px;
+}
+
